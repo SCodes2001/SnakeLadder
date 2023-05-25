@@ -319,9 +319,10 @@ dice:hover{
   #my_audio {
     position: absolute;
     left: 0vw;
-    top: 93vh;
+    top: 80vh;
     border: 2px solid black;
     background: white;
-    width: 271px;
-
+    width: 200px;
+    height: 10vmin;
+    
 }
